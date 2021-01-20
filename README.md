@@ -41,7 +41,6 @@ You can also find my personal portfolio on <a href="https://www.ashutosh.rocks">
 ![](https://img.shields.io/badge/Tools-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-GIT-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-Blockchain-informational?style=flat&logo=bitcoin&logoColor=white&color=2bbc8a)
 
