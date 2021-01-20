@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ashutosh Kushwaha and I'm currently a student at [NIT TRICHY](https://www.nitt.edu). You can find me on
+My name is Ashutosh Kushwaha and I'm currently purshuing my B.Tech from [NIT TRICHY](https://www.nitt.edu). You can find me on
 <a href="https://www.linkedin.com/in/ashutoshkush81">
 <img src="iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" width="15px">
 </a>.
