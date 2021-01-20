@@ -37,12 +37,12 @@ My name is Ashutosh Kushwaha and I'm currently a student at [NIT TRICHY](https:/
 <img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=weatherApp&theme=tokyonight>
 </a>
 
-<a href="https://github.com/ashutoshkush81/quotes-generator">
-<img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=quotes-generator&theme=tokyonight>
-</a>
-
 <a href="https://github.com/ashutoshkush81/kickstarter">
 <img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=kickstarter&theme=tokyonight>
+</a>
+
+<a href="https://github.com/ashutoshkush81/quotes-generator">
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=quotes-generator&theme=tokyonight>
 </a>
 
 
