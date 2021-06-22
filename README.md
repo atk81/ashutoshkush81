@@ -46,7 +46,7 @@ You can also find my personal portfolio on <a href="https://www.ashutosh.rocks">
 
 ## 📈 **Github Stats**
 
-[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutoshkush81&show_icons=true&count_private=true&hide=contribs&theme=tokyonight)](https://github.com/ashutoshkush81)
+[![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=atk81&show_icons=true&count_private=true&hide=contribs&theme=tokyonight)](https://github.com/atk81)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshkush81&layout=compact&theme=tokyonight&langs_count=7)](https://github.com/ashutoshkush81)
@@ -55,21 +55,21 @@ You can also find my personal portfolio on <a href="https://www.ashutosh.rocks">
 
 
 
-<a href="https://github.com/ashutoshkush81/weatherApp">
-<img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=weatherApp&theme=tokyonight>
+<a href="https://github.com/atk81/weatherApp">
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=atk81&repo=weatherApp&theme=tokyonight>
 </a>
 
-<a href="https://github.com/ashutoshkush81/kickstarter">
-<img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=kickstarter&theme=tokyonight>
+<a href="https://github.com/atk81/kickstarter">
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=atk81&repo=kickstarter&theme=tokyonight>
 </a>
 
-<a href="https://github.com/ashutoshkush81/quotes-generator">
-<img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=quotes-generator&theme=tokyonight>
+<a href="https://github.com/atk81/quotes-generator">
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=atk81&repo=quotes-generator&theme=tokyonight>
 </a>
 
 
-<a href="https://github.com/ashutoshkush81/mysql">
-<img src=https://github-readme-stats.vercel.app/api/pin/?username=ashutoshkush81&repo=mysql&theme=tokyonight>
+<a href="https://github.com/atk81/mysql">
+<img src=https://github-readme-stats.vercel.app/api/pin/?username=atk81&repo=mysql&theme=tokyonight>
 </a>
 
 
