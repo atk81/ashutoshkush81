@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Ashutosh Kushwaha and I'm currently purshuing my B.Tech from [NIT TRICHY](https://www.nitt.edu). You can find me on
+My name is Ashutosh Kushwaha and I'm currently working at [SAP LABS INDIA](https://www.sap.com/india/about/labs-india.html). I completed my B.Tech from [NIT TRICHY(2021)](https://www.nitt.edu). You can find me on
 <a href="https://www.linkedin.com/in/ashutoshkush81">
 <img src="iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" width="15px">
-</a>.
-You can also find my personal portfolio on <a href="https://www.ashutosh.rocks">
+</a> and <a href="https://www.ashutosh.rocks">
 <img src="logo.png" width="15px">
 </a>.
 <!-- 
