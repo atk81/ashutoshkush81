@@ -16,21 +16,13 @@ Hi guys, my name is **Ashutosh Kushwaha**. I'm a software developer from India. 
 
 I'm currently learning **Express.js** and **Next.js**. I'm always trying to learn new things. I'm curious about the latest trends in the field of web development.
 
-
-<!-- You can find me on
-<a href="https://www.linkedin.com/in/ashutoshkush81">
-<img src="iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" width="15px">
-</a> and <a href="https://www.ashutosh.rocks">
-<img src="logo.png" width="15px">
-</a>. -->
-
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=shades-of-purple&animation=default&layout=default&font=default)
-<!-- 
- [![linkedin](./iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg)](https://www.linkedin.com/in/ashutoshkush81) 
- -->
+
+## **📫 How to reach me**:
+[<img src="https://img.icons8.com/fluency/344/twitter.png" width="3.5%"/>](https://twitter.com/atk_81)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ashutoshkush81/)  &nbsp; <a href="mailto:ashutoshkushwaha81@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
  ## 🛠  **Technologies and tools**
- <a name="learning-now"></a>
+<a name="learning-now"></a>
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
