@@ -30,7 +30,8 @@ I'm currently learning **Express.js** and **Next.js**. I'm always trying to lear
  -->
 
  ## 🛠  **Technologies and tools**
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
+ <a name="learning-now"></a>
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
 &nbsp;
@@ -66,10 +67,11 @@ I'm currently learning **Express.js** and **Next.js**. I'm always trying to lear
 &nbsp;
 <img src="https://img.shields.io/badge/Cypress-282C34?logo=cypress" alt="Cypress logo" title="Cypress" height="25" />
 &nbsp;
-[<img src="https://img.shields.io/badge/Mocha-282C34?logo=mocha" alt="Mocha logo" title="Mocha" height="25" />]
+<img src="https://img.shields.io/badge/Mocha-282C34?logo=mocha" alt="Mocha logo" title="Mocha" height="25" />
 &nbsp;
-[<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity" alt="Solidity logo" title="Solidity" height="25" />]
-&nbsp;]
+<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity" alt="Solidity logo" title="Solidity" height="25" />
+&nbsp;
+<a name="learning-next"></a>
 
 <!-- 
 ## 🔧 **Technology and Tools**
