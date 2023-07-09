@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 Hi guys, my name is **Ashutosh Kushwaha**. I'm a software developer from India. I'm currently working at [Candor Health](https://www.candorhealth.com/).
 
-I'm currently learning **Kafka* and **Graph Databases**. I'm always trying to learn new things. I'm curious about the latest trends in the field of Computer Science.
+I'm currently learning **Kafka** and **Graph Databases**. I'm always trying to learn new things. I'm curious about the latest trends in the field of Computer Science.
 
 ## **📫 How to reach me**:
 [<img src="https://img.icons8.com/fluency/344/twitter.png" width="3.5%"/>](https://twitter.com/atk_81)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ashutoshkush81/)  &nbsp; <a href="mailto:ashutoshkushwaha81@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
