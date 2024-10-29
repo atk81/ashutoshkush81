@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-# **Namaste(नमस्ते)!** 🙏🏼
+# 👋 Hi there, I'm Ashutosh Kushwaha!
 
 <!--
 **ashutoshkush81/ashutoshkush81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,15 +8,20 @@ Here are some ideas to get you started:
 -->
 <img align='right' src='https://octodex.github.com/images/manufacturetocat.png' width='200"'>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) 
-![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/atk81)
+![status](https://img.shields.io/badge/status-up-brightgreen)
 
-Hi guys, my name is **Ashutosh Kushwaha**. I'm a software developer from India. I'm currently working at [Candor Health](https://www.candorhealth.com/).
+I'm a passionate **Software Engineer** with a deep curiosity for exploring new technologies and solving real-world problems. My expertise lies in building **scalable backend systems, RESTful APIs, and distributed services** using languages like **Go, TypeScript, and Python**.
 
-I'm currently learning **Kafka** and **Graph Databases**. I'm always trying to learn new things. I'm curious about the latest trends in the field of Computer Science.
+I enjoy experimenting with tools like **Docker, Kubernetes, and AWS** to create reliable, fault-tolerant solutions. From **blockchain projects to AI-powered web crawlers**, I thrive on learning, building, and sharing my knowledge.
 
-## **📫 How to reach me**:
+## 💻 Currently working on:
+- Enhancing my DevOps skills with CI/CD pipelines
+- Reading books
+
+  
+## 📫 Let’s connect!
+Feel free to explore my repositories and let me know if you want to collaborate on open-source projects or have a cool idea to talk about!
+
 [<img src="https://img.icons8.com/fluency/344/twitter.png" width="3.5%"/>](https://twitter.com/atk_81)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ashutoshkush81/)  &nbsp; <a href="mailto:ashutoshkushwaha81@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
  ## 🛠  **Technologies and tools**
